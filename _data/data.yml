@@ -229,32 +229,28 @@ Neuroscience." Human Behavior, Development and Society, Asia-Pacific Internation
 
       - title: Published book on mental health
         link: "#"
-        authors: Me
+        authors: me
         conference: Powering through GAD with the pen name of Claudia AG
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Teaching
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Play PUBG
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Driving
+        level: 5%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Cleaning
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Cooking
+        level: 45%
 
       - name: Sketch & Photoshop
         level: 60%
