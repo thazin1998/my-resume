@@ -61,9 +61,9 @@ career-profile:
     title: Career Profile
     summary: |
       I hold experiences in areas such as education, digital marketing, event coordination, and creative 
-industries. I have proven my ability to adapt such skills across various roles, enhancing educational and 
-communication outcomes in multicultural environments. I am fluent in English and Burmese, with 
-linguistic abilities in Korean, Japanese, and French.
+      industries. I have proven my ability to adapt such skills across various roles, enhancing educational and 
+      communication outcomes in multicultural environments. I am fluent in English and Burmese, with 
+      linguistic abilities in Korean, Japanese, and French.
 education:
     title: Education
     info:
@@ -224,7 +224,7 @@ publications:
       - title: Research Article
         link: "#"
         authors: me
-        conference: "Cognitive Sociology: Developing the ‘Diversity Pathways’ Model in Cultural 
+        conference: Cognitive Sociology: Developing the ‘Diversity Pathways’ Model in Cultural 
 Neuroscience." Human Behavior, Development and Society, Asia-Pacific International University.
 
       - title: Published book on mental health
