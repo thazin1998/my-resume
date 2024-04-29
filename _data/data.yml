@@ -221,15 +221,16 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Research Article
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: me
+        conference: "Cognitive Sociology: Developing the ‘Diversity Pathways’ Model in Cultural 
+Neuroscience." Human Behavior, Development and Society, Asia-Pacific International University.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Published book on mental health
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Me
+        conference: Powering through GAD with the pen name of Claudia AG
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
